@@ -110,9 +110,9 @@ Edit file gen_tx.json
  nano $HOME/gen_tx.json
  ```
  
- Ganti YOUR_ADDRESS dengan address Sei kalian
+ Ganti YOUR_ADDRESS dengan address Sei kalian, kalian juga bisa mengedit price, quantity, orderan ( Long atau Short ) dan jenis orderan ( Market atau Limit ) berdasarkan kebutuhan dan keinginan kalian
  
- Setelah sukses mengganti dengan address Sei kalian, lakukan Save dengan cara tekan `CTRL` + `X` lalu tekan `Y` kemudian `Enter`
+ Setelah mengedit file gen_tx.json, lakukan Save dengan cara tekan `CTRL` + `X` lalu tekan `Y` kemudian `Enter`
  
  ### 3. Membuat variable
  
@@ -146,5 +146,7 @@ seid tx broadcast $HOME/txs.json
 
 Jika `code : 0` seperti gambar di atas, maka program berjalan lancar dan tx hash yang muncul adalah Valid dan sudah terbaca di dalam blockchain, kalian bisa copy paste tx hash tersebut ke [Sei Explorer](https://sei.explorers.guru) agar lebih yakin
 
-Tapi, jika muncul error atau code nya bukan angka 0 maka dapat dipastikan program tersebut gagal dieksekusi karena suatu kondisi
+Tapi, jika muncul error atau code nya bukan angka 0 maka dapat dipastikan program tersebut gagal dieksekusi karena suatu kondisi.
 
+
+## NB. Setiap transaksi baru wajib diulang dari langkah ke 2 hingga langkah ke 4 agar tidak mengalami error yang tidak diinginkan.
