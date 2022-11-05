@@ -102,7 +102,7 @@ echo '{
 }' > $HOME/gen_tx.json
 ```
 
-### 2. Penyesuaian data file
+### 2. Penyesuaian data program
 
 Edit file gen_tx.json
 
@@ -112,7 +112,7 @@ Edit file gen_tx.json
  
  Ganti YOUR_ADDRESS dengan address Sei kalian
  
- Setelah sukses mengganti dengan address Sei kalian, tekan `CTRL` + `X` lalu tekan `Y` kemudian `Enter`
+ Setelah sukses mengganti dengan address Sei kalian, lakukan Save dengan cara tekan `CTRL` + `X` lalu tekan `Y` kemudian `Enter`
  
  ### 3. Membuat variable
  
