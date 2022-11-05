@@ -16,7 +16,7 @@ NB. Kalau saya pribadi menggunakan tutorial instalasi dari Brocha karena versi n
 
 ## Tutorial
 
-Saya anggap kalian sudah sukses menginstall Node Sei dan block nya sudah sinkron. Kalian hanya perlu mengikuti tutorial ini, yang terpenting adalah teliti dan agar mengurangi risiko error dan lain sebagainya
+Saya anggap kalian sudah sukses menginstall Node Sei dan block nya sudah sinkron. Kalian hanya perlu mengikuti tutorial ini, usahakan dan biasakan untuk teliti agar mengurangi risiko error dan lain sebagainya
 
 ### 1. Copy & paste command di bawah ini langsung ke VPS  / CLI kalian
 
