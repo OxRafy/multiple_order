@@ -144,7 +144,7 @@ seid tx broadcast $HOME/txs.json
 
 <img width="500" alt="Contoh" src="https://user-images.githubusercontent.com/73088644/200134310-f7433750-be06-4e70-8c97-89d026c55860.png">
 
-Jika `code : 0` seperti gambar di atas, maka program berjalan lancar dan tx hash yang muncul adalah Valid dan sudah terbaca di dalam blockchain, kalian bisa copy paste tx hash tersebut ke [Sei Explorer](https://sei.explorers.guru) agar lebih yakin
+Jika `code: 0` seperti gambar di atas, maka program berjalan lancar dan tx hash yang muncul adalah Valid dan sudah terbaca di dalam blockchain, kalian bisa copy paste tx hash tersebut ke [Sei Explorer](https://sei.explorers.guru) agar lebih yakin
 
 Tapi, jika muncul error atau code nya bukan angka 0 maka dapat dipastikan program tersebut gagal dieksekusi karena suatu kondisi.
 
