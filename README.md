@@ -2,7 +2,7 @@
 
 ## Bahan bahan
 
-1. Node Sei Network yang sudah sinkron block
+1. Node Sei Network yang sudah sinkron block dan sudah import wallet yang kalian gunakan untuk testing Vortex Protocol
 2. Kesabaran dan ketelitian
 3. Secangkir kopi
 
@@ -12,11 +12,11 @@ Jika kalian masih belum menjalankan Node Sei, maka kalian perlu melakukan instal
 
 >- [Tutorial dari Mamang Brocha](https://brocha.in/testnet/sei/installation/)
 
-NB. Kalau saya pribadi menggunakan tutorial instalasi dari Brocha karena versi node nya sudah yang paling terbaru dan untuk tutorial setelah penginstalan saya ambil beberapa command dari KJ
+NB. Kalau saya pribadi menggunakan tutorial instalasi dari Brocha karena versi node nya sudah yang paling terbaru dan untuk tutorial setelah penginstalan saya ambil beberapa command dari KJ seperti command untuk import wallet
 
 ## Tutorial
 
-Saya anggap kalian sudah sukses menginstall Node Sei dan block nya sudah sinkron. Kalian hanya perlu mengikuti tutorial ini, usahakan dan biasakan untuk teliti agar mengurangi risiko error dan lain sebagainya
+Saya anggap kalian sudah sukses menginstall Node Sei dan wallet sudah ready. Kalian hanya perlu mengikuti tutorial ini, usahakan dan biasakan untuk teliti agar mengurangi risiko error dan lain sebagainya
 
 ### 1. Copy & paste command di bawah ini langsung ke VPS  / CLI kalian
 
